@@ -1,0 +1,4 @@
+70 Mbps
+1 Gbps
+15.1 Kbps
+32 Mbps
